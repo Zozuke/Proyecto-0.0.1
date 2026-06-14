@@ -1,4 +1,3 @@
 # Proyecto-0.0.1
 
-- un proyecto fuerte
-+ no molestar
+![Estado](https://img.shields.io/badge/Estado-Activo-green)
